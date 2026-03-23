@@ -7,8 +7,8 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**,  **.py**,  **.sql**
 - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
+- ⚽ Football fan — always up to talk about the game
+- 🌍 Languages: Arabic, English, French, and a bit of German
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -19,8 +19,7 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdelhafidh-87&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2018%20mins-blue?style=flat)
 
@@ -49,20 +48,6 @@ Sunday                   462 commits         ████████░░░�
 <!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.21% as on ⏰ 23-Mar-2026
-
----
-
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
 
 ---
 
