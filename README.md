@@ -21,33 +21,20 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdelhafidh-87&theme=dark&mode=weekly)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2018%30mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌃 Evening                760 commits         █████████████░░░░░░░░░░░░   50.03 % 
-🌙 Night                  129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+🌞 Morning                12  commits         ███████░░░░░░░░░░░░░░░░░░   11.50 % 
+🌆 Daytime                10  commits         ███░░░░░░░░░░░░░░░░░░░░░░   5.98 % 
+🌃 Evening                30  commits         █████████████░░░░░░░░░░░░   45.03 % 
+🌙 Night                  24  commits         █████████████░░░░░░░░░░░░   38.49 % 
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Wednesday                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Saturday                 287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.41 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.21% as on ⏰ 23-Mar-2026
+⏳ **Year Progress:** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 11.21% as on ⏰ 23-Mar-2026
 
 ---
 
